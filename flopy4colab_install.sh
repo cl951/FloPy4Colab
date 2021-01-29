@@ -1,3 +1,3 @@
-chmod +x mf2005
-cp ./mf2005 /usr/local/bin
+chmod +x ./FloPy4Colab/mf2005
+cp ./FloPy4Colab/mf2005 /usr/local/bin
 pip install flopy
